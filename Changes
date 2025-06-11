@@ -1,0 +1,8 @@
+Revision history for Math::BijectiveBase
+
+0.0.1  2025-06-11
+    - Initial version
+    - Core bijective base conversion functions
+    - Predefined bases: 26, 36, 52, 62
+    - Support for custom alphabets
+    - Comprehensive test suite

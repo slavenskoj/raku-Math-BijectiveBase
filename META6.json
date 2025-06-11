@@ -1,0 +1,18 @@
+{
+  "perl"          : "6.d",
+  "name"          : "Math::BijectiveBase",
+  "version"       : "0.0.1",
+  "description"   : "Bijective base encoding (spreadsheet column numbering)",
+  "authors"       : [ "Danslav Slavenskoj" ],
+  "auth"          : "zef:slavenskoj",
+  "license"       : "Artistic-2.0",
+  "provides"      : {
+    "Math::BijectiveBase" : "lib/Math/BijectiveBase.rakumod"
+  },
+  "depends"       : [ ],
+  "build-depends" : [ ],
+  "test-depends"  : [ ],
+  "resources"     : [ ],
+  "tags"          : [ "math", "bijective", "base", "conversion", "spreadsheet" ],
+  "source-url"    : "https://github.com/slavenskoj/raku-Math-BijectiveBase"
+}
